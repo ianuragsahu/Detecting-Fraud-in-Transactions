@@ -1,2 +1,0 @@
--- Kaggle link for the dataset used in our analysis
-https://www.kaggle.com/datasets/ealaxi/paysim1
